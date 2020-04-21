@@ -1,2 +1,2 @@
 # shano
-some shano stuff
+shano stuff
